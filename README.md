@@ -11,7 +11,11 @@ Keep approximately one "bell worth" of space between the logotype and other elem
 
 Inverting the colors of the logos may be appropriate to match with the context in which the logo is being displayed. However, please do not recolor, stretch, skew, or otherwise modify the logos when using them to represent the PyBEL project.
 
+### Mention in Text
+
 When mentioned in text, the project name should be styled as PyBEL, with only the "y" in lowercase. Generally, write the name in plain text instead of embedding the logo inline.
+
+### Creating Graphics
 
 The PyBEL logos were created as vector graphics in Inkscape and rasterized to PNG with Inkscape as well. The PNG versions were then [optimized](https://blog.codinghorror.com/zopfli-optimization-literally-free-bandwidth/) using `optipng` and `advdef`:
 ```sh
