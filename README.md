@@ -1,4 +1,4 @@
-![PyBEL Logotype](PyBEL-logotype-1024.png)
+![PyBEL Logotype](PyBEL/PyBEL-logotype-1024.png)
 
 # The PyBEL Logo
 
