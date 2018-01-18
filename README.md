@@ -23,4 +23,6 @@ optipng -o2 -nb *.png && advdef -z -4 *.png
 ```
 
 ## License
-The PyBEL logos are derivatives of "[Ringing bell](http://game-icons.net/lorc/originals/ringing-bell.html)" by [Lorc](https://lorcblog.blogspot.com/), used under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/). The PyBEL Web logo also includes "[Earth Africa & Europe](http://game-icons.net/delapouite/originals/earth-africa-europe.html)" by [Delapouite](http://delapouite.com/), used under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/). The PyBEL logos are licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) by [Scott Colby](https://github.com/scolby33).
+The PyBEL logos are derivatives of "[Ringing bell](http://game-icons.net/lorc/originals/ringing-bell.html)" by [Lorc](https://lorcblog.blogspot.com/), used under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0).
+The PyBEL Web logo also includes "[Earth Africa & Europe](http://game-icons.net/delapouite/originals/earth-africa-europe.html)" by [Delapouite](http://delapouite.com/), used under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0).
+The PyBEL logos are licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) by [Scott Colby](https://github.com/scolby33).
