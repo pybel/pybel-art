@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 429.19465 360.75098"
+   viewBox="0 0 429.19465 406.76294"
    id="svg3350"
    version="1.1"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="BELcommons-square.svg"
    width="429.19464"
-   height="380.64526"
+   height="429.19464"
    inkscape:export-filename="PyBEL-logotype-100.png"
    inkscape:export-xdpi="24.947956"
    inkscape:export-ydpi="24.947956">
@@ -84,16 +84,17 @@
      fit-margin-right="8"
      fit-margin-bottom="8"
      inkscape:zoom="0.5"
-     inkscape:cx="987.6654"
+     inkscape:cx="681.6654"
      inkscape:cy="362.63005"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg3350"
-     showguides="false" />
+     showguides="false"
+     units="px" />
   <g
      id="g4939"
-     transform="translate(92.443651,9.9471225)">
+     transform="translate(92.443651,32.953103)">
     <path
        clip-path="url(#clipPath4931)"
        sodipodi:nodetypes="cccccccccsccccccccccccccsscccccccccccccccccc"
@@ -127,10 +128,10 @@
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Optima;-inkscape-font-specification:Optima;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="948"
-     y="-219.30185"
+     y="-170.75247"
      id="text25"><tspan
        sodipodi:role="line"
        id="tspan23"
        x="948"
-       y="-183.41109" /></text>
+       y="-134.86171" /></text>
 </svg>
