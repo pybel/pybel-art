@@ -28,10 +28,10 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -109,7 +109,7 @@
      fit-margin-right="8"
      fit-margin-bottom="8"
      inkscape:zoom="0.5"
-     inkscape:cx="1057.6654"
+     inkscape:cx="1022.6654"
      inkscape:cy="362.63005"
      inkscape:window-x="0"
      inkscape:window-y="0"
